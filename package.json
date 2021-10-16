@@ -1,0 +1,28 @@
+{
+  "name": "d3-projects",
+  "version": "1.0.0",
+  "description": "d3-projects by fradely codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fradelycodes/DataVisualizationD3.git"
+  },
+  "keywords": [
+    "d3",
+    "data",
+    "graphics",
+    "datavisualization"
+  ],
+  "author": "Fradely Codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fradelycodes/DataVisualizationD3/issues"
+  },
+  "homepage": "https://github.com/fradelycodes/DataVisualizationD3#readme",
+  "dependencies": {
+    "d3": "^7.1.1"
+  }
+}
